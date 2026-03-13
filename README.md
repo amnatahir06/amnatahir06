@@ -1,26 +1,26 @@
 # Hi, I'm Amna Tahir 👋
 
-AI & Machine Learning Enthusiast | Python Learner | Data Analysis
+Web Developer | Python
 
 ---
 
 ## About Me
-I’m learning Artificial Intelligence and Machine Learning with a focus on strong fundamentals and hands-on practice. 
-I enjoy working with Python, exploring datasets, and turning ideas into small, practical projects.
+I’m learning web development with a focus on building practical and user-friendly websites. 
+I enjoy working with code, exploring new technologies, and turning ideas into real web projects.
 
 ## What I’m Learning
-- Python for data handling and automation
-- Data analysis (cleaning, exploration, visualization)
-- Machine learning basics (training & evaluating models)
+- HTML, CSS, and JavaScript for building websites
+- Python for backend development
+- Responsive web design
 - Git & GitHub for project management
 
 ## Tools & Tech
-- Python, Jupyter Notebook
-- Pandas, NumPy, Matplotlib
-- Scikit-learn (learning)
+- HTML, CSS, JavaScript
+- Python
+- VS Code
 - Git & GitHub
 
 ## Goals
-- Build beginner-friendly ML projects step by step  
-- Improve problem-solving and coding consistency  
+- Build modern and responsive websites  
+- Improve problem-solving and coding skills  
 - Maintain clean and organized repositories on GitHub  
