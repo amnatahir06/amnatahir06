@@ -55,15 +55,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Air Pollution & Kidney Risk Prediction**](https://github.com/amnatahir06/Air_Pollution_Kidney_Risk_Project) | End-to-end ML system predicting kidney disease risk from NHANES clinical data with FastAPI backend | Python, Scikit-learn, FastAPI, HTML/CSS |
-
-
 ### 🗺️ DevOps Roadmap (What I'm Working Toward)
 
 ```
