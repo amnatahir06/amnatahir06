@@ -21,7 +21,7 @@
 
 - 🎓 Student actively building skills in **DevOps Engineering**, **Machine Learning** & **AI**
 - 🏗️ Currently learning and working with **Docker**, **AWS**, and **CI/CD** pipelines
-- 🤖 Experienced in building **end-to-end ML projects** — from data preprocessing to model deployment
+- 🤖 Experienced in building **end-to-end ML projects** from data preprocessing to model deployment
 - 📍 Based in **Lahore, Pakistan**
 - 🌱 Currently expanding into **Kubernetes**, **Terraform**, **Jenkins**, and **Infrastructure as Code**
 - ⚡ Passionate about automating everything and deploying ML models at scale
