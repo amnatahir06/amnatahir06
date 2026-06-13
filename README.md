@@ -16,7 +16,7 @@ I am a passionate **AI & Machine Learning Engineer** specializing in building en
 
 - 🛠️ Currently developing **Visiontrack Pro** — an intelligent, privacy-first productivity tracking ecosystem combining computer vision and desktop/browser telemetry.
 - 🧠 Deeply interested in **Computer Vision**, **Active Tracking Systems**, **NLP**, and **MLOps**.
-- ✉️ Reach me at: [amnatahir06@gmail.com](mailto:amna.mirza786@gmail.com)
+- ✉️ Reach me at: [amna.mirza782@gmail.com](mailto:amna.mirza782@gmail.com)
 
 ---
 
