@@ -67,14 +67,6 @@ I am a passionate **AI & Machine Learning Engineer** specializing in building en
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amnatahir06&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnatahir06&layout=compact&theme=dark&langs_count=6" />
-</p>
-
----
-
 <p align="center">
   <i>"Designing intelligent solutions for real-world problems."</i>
 </p>
