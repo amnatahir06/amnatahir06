@@ -1,79 +1,80 @@
-<h1 align="center">Hi there, I'm Amna Tahir 👋</h1>
+# Hi there, I'm Amna Tahir! 👋
+### AI & Machine Learning Engineer | Full-Stack ML Systems Developer
 
-<p align="center">
-  <b>Aspiring DevOps Engineer | Machine Learning & AI Enthusiast</b><br/>
-  <i>Building the bridge between intelligent systems and reliable infrastructure</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amna-tahir-4611a0323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amnatahir06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=amnatahir06&style=for-the-badge&color=0e75b6" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
+I am a passionate **AI & Machine Learning Engineer** specializing in building end-to-end intelligent systems, computer vision models, and privacy-preserving employee monitoring services. I bridge the gap between machine learning research and production-ready systems by developing scalable backend pipelines and deploying models locally or in the cloud.
 
-- 🎓 Student actively building skills in **DevOps Engineering**, **Machine Learning** & **AI**
-- 🏗️ Currently learning and working with **Docker**, **AWS**, and **CI/CD** pipelines
-- 🤖 Experienced in building **end-to-end ML projects** from data preprocessing to model deployment
-- 📍 Based in **Lahore, Pakistan**
-- 🌱 Currently expanding into **Kubernetes**, **Terraform**, **Jenkins**, and **Infrastructure as Code**
-- ⚡ Passionate about automating everything and deploying ML models at scale
+- 🛠️ Currently developing **Visiontrack Pro** — an intelligent, privacy-first productivity tracking ecosystem combining computer vision and desktop/browser telemetry.
+- 🧠 Deeply interested in **Computer Vision**, **Active Tracking Systems**, **NLP**, and **MLOps**.
+- ✉️ Reach me at: [amnatahir06@gmail.com](mailto:amnatahir06@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Toolbox
 
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-#### ML / AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-#### Currently Learning
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### 🗺️ DevOps Roadmap (What I'm Working Toward)
-
-```
-✅ Git & GitHub            ✅ Python & ML Basics        ✅ Docker
-✅ FastAPI                 ✅ Model Deployment           ✅ AWS (EC2, S3)
-🔄 CI/CD Pipelines        🔄 GitHub Actions            🔄 Kubernetes
-📋 Terraform (IaC)        📋 Jenkins                   📋 Ansible
-📋 Prometheus & Grafana   📋 Helm Charts               📋 ArgoCD
-```
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧠 Machine Learning</h3>
+      <ul>
+        <li>Python (NumPy, Pandas)</li>
+        <li>PyTorch / TensorFlow</li>
+        <li>Scikit-Learn</li>
+        <li>OpenCV (Computer Vision)</li>
+        <li>Hugging Face (Transformers)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚙️ Systems & Backend</h3>
+      <ul>
+        <li>FastAPI / Flask</li>
+        <li>SQLAlchemy / SQLite / PostgreSQL</li>
+        <li>Node.js / Electron</li>
+        <li>REST & WebSocket APIs</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>☁️ Deployment & MLOps</h3>
+      <ul>
+        <li>Docker / Containerization</li>
+        <li>Git / GitHub Actions</li>
+        <li>Model Optimization & Inference</li>
+        <li>Local Service Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Let's Connect
+## 📁 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amna-tahir-4611a0323/)
-- 🐙 [GitHub](https://github.com/amnatahir06)
+### 👁️ [Visiontrack Pro](https://github.com/amnatahir06/Visiontrack_Pro)
+*An intelligent, privacy-first activity tracking and webcam presence analytics ecosystem.*
+- **ML Component**: Live face detection and webcam-based presence tracking using computer vision logic (`webcam-service`).
+- **Stack**: Python, FastAPI, SQLite, Electron, React, Chrome Extension API.
+- **Key Features**: Dynamic browser title classification, offline data caching, and manager dashboards.
+
+---
+
+## 📊 GitHub Analytics
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amnatahir06&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnatahir06&layout=compact&theme=dark&langs_count=6" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Automate what you can, learn what you must, build what matters."</i>
+  <i>"Designing intelligent solutions for real-world problems."</i>
 </p>
